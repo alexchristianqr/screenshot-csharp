@@ -1,0 +1,10 @@
+C:\Users\alex_christian\source\repos\wf_capture\wf_capture\obj\Debug\wf_capture.csprojAssemblyReference.cache
+C:\Users\alex_christian\source\repos\wf_capture\wf_capture\obj\Debug\wf_capture.Form1.resources
+C:\Users\alex_christian\source\repos\wf_capture\wf_capture\obj\Debug\wf_capture.Properties.Resources.resources
+C:\Users\alex_christian\source\repos\wf_capture\wf_capture\obj\Debug\wf_capture.csproj.GenerateResource.cache
+C:\Users\alex_christian\source\repos\wf_capture\wf_capture\obj\Debug\wf_capture.csproj.CoreCompileInputs.cache
+C:\Users\alex_christian\source\repos\wf_capture\wf_capture\bin\Debug\wf_capture.exe.config
+C:\Users\alex_christian\source\repos\wf_capture\wf_capture\bin\Debug\wf_capture.exe
+C:\Users\alex_christian\source\repos\wf_capture\wf_capture\bin\Debug\wf_capture.pdb
+C:\Users\alex_christian\source\repos\wf_capture\wf_capture\obj\Debug\wf_capture.exe
+C:\Users\alex_christian\source\repos\wf_capture\wf_capture\obj\Debug\wf_capture.pdb
