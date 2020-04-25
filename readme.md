@@ -5,7 +5,7 @@ El proposito de este repositorio es realizar capturas de pantalla en windows >= 
 ## Pasos
 ``` bash
 # Clonar proyecto de github
-git clone https://github.com/acqrdeveloper/capture-screenshot-window.git screenshot-windows
+git clone https://github.com/acqrdeveloper/screenshot-windows.git screenshot-windows
 
 # Ubicarse en la carpeta temporal del sistema windows
 C:\Users\[my_user]\AppData\Local\Temp
